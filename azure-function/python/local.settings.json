@@ -5,7 +5,7 @@
         "AzureWebJobsSecretStorageType": "files",
         "FUNCTIONS_WORKER_RUNTIME": "python",
         "RealTimeFeedUrl": "https://s3.amazonaws.com/kcm-alerts-realtime-prod/vehiclepositions_enhanced.json",
-        "LogicAppUrl": "",
+        "LogicAppUrl": "https://azure.com",
         "AzureSQLConnectionString": "Driver={ODBC Driver 17 for SQL Server};Server=bus-server3500723.database.windows.net,1433;Database=bus-db;UID=cloudadmin;PWD=aRhgoPlYYYunohS@!5632;Connection Timeout=30;"
     }
 }
